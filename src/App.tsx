@@ -1,6 +1,5 @@
 import { useState } from "react";
 import "./App.css";
-import ReactDOM from 'react-dom';
 import {QRCodeSVG} from 'qrcode.react';
 
 function App() {
