@@ -27,7 +27,7 @@ function App() {
                     viewBox="0 0 24 24"
                     stroke-width="1.2"
                     stroke="currentColor"
-                    class="h-5 w-5 ml-1 absolute top-2.5 right-2.5 text-slate-700"
+                    className="h-5 w-5 ml-1 absolute top-2.5 right-2.5 text-slate-700"
                   >
               <path
                 stroke-linecap="round"
